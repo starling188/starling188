@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm [Starlord](https://https://github.com/starling188)
 
-<div align="right">
-  <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" height="160px" alt="GIF" />
-</div>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ## I'm a Software Developer
 
