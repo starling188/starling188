@@ -57,8 +57,7 @@
 ![Python](https://img.shields.io/badge/-Python-222222?style=flat&logo=python&logoColor=3776AB)
 ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript&logoColor=F7DF1E)
-![Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
+
 <br/>
 
 ---
